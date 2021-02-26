@@ -1,5 +1,5 @@
-plotly==4.14.3
-matplotlib==3.3.2
+plotly
+matplotlib
 pandas
-streamlit==0.76.0
-numpy==1.19.2
+streamlit
+numpy
