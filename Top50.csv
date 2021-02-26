@@ -1,0 +1,51 @@
+Rank,Restaurant,Content,Sales_mn,YOY_Sales,Units,YOY_Units,Headquarters,Segment_Category
+1,McDonald's,NA,40412,4.90%,13846,-0.50%,NA,Quick Service & Burger
+2,Starbucks,NA,21380,8.60%,15049,3.00%,NA,Quick Service & Coffee Cafe
+3,Chick-fil-A,"While Popeyes got a lot of the chicken buzz in 2019, Chick-fil-A had a busy year in its own right. On top of passing Taco Bell and Subway to become the nation's third-largest chain, it introduced dine-in mobile ordering, eliminated antibiotics from its chicken and added its first new permanent menu item in three years: mac and cheese.",11320,13.00%,2470,5.00%,NA,Quick Service & Chicken
+4,Taco Bell,NA,11293,9.00%,6766,2.70%,NA,Quick Service & Mexican
+5,Burger King,NA,10204,2.70%,7346,0.20%,NA,Quick Service & Burger
+6,Subway,NA,10200,-2.00%,23801,-4.00%,NA,Quick Service & Sandwich
+7,Wendy's,NA,9762,4.20%,5852,0.70%,NA,Quick Service & Burger
+8,Dunkin',"Dunkin' dropped ""Donuts"" from its name and repositioned as a beverage-first concept, and it seems to have paid off, said Kevin Schimpf of Technomic. ""To have a good year while Starbucks is also still continuing to grow away, I think that was impressive for Dunkin',"" he said.",9228,5.00%,9630,2.20%,NA,Quick Service & Coffee Cafe
+9,Domino's,NA,7044,6.90%,6126,4.30%,NA,Quick Service & Pizza
+10,Panera Bread,NA,5890,4.00%,2160,3.20%,NA,Fast Casual & Bakery Cafe
+11,Pizza Hut,"The chain moved to replace underperforming dine-in restaurants with takeout- and delivery-only units in 2019, leading to a 2.4% decline in unit count. Executives said in August that unit count could drop to as low as 7,000 before returning to normal levels as units are converted.",5558,0.60%,7306,-2.40%,NA,Quick Service & Pizza
+12,Chipotle Mexican Grill,NA,5509,14.80%,2584,5.30%,NA,Fast Casual & Mexican
+13,Sonic Drive-In,"The drive-in chain grew same-store sales for the second straight year under new parent Inspire Brands, which acquired Sonic in 2018. It kicked off 2020 with a refreshed look and tag line: ""This is how we Sonic.""",4687,4.60%,3526,-2.10%,NA,Quick Service & Burger
+14,KFC,NA,4546,2.50%,4065,-0.20%,NA,Quick Service & Chicken
+15,Olive Garden,"Olive Garden became the nation's largest casual-dining chain, growing sales 5% in 2019. The Italian chain seems to have had success bucking the delivery trend, delivering only for large orders of at least $75. It has also been focused on training and staffing to improve the dine-in experience.",4287,5.00%,866,1.30%,NA,Casual Dining & Italian/Pizza
+16,Applebee's,NA,4085,-3.00%,1665,-1.70%,NA,Casual Dining & Varied Menu
+17,Panda Express,"Panda Express has quietly established itself as a fast-casual stalwart, posting another year of double-digit sales growth (12%). ""They continue to have just strong year after strong year, and there's never any competition in their segment,"" said Schimpf.",3946,12.00%,2209,4.90%,NA,Fast Casual & Asian/Noodle
+18,Arby's,NA,3884,1.90%,3359,0.90%,NA,Quick Service & Sandwich
+19,Popeyes Louisiana Kitchen,NA,3812,18.30%,2476,5.50%,NA,Quick Service & Chicken
+20,Little Caesars,"The third-largest pizza chain's self-service, heated Pizza Portals have helped it stay competitive in the carryout-pizza sector. And in January, Little Caesars made its return to the delivery space, partnering with DoorDash to deliver pies for ""at least $5 less"" than its competitors.",3811,2.70%,4237,-0.60%,NA,Quick Service & Pizza
+21,Dairy Queen,NA,3760,2.90%,4381,-0.60%,NA,Quick Service & Frozen Desserts
+22,Buffalo Wild Wings,NA,3669,-0.10%,1206,-0.20%,NA,Casual Dining & Sports Bar
+23,Chili's Grill & Bar,NA,3563,2.20%,1242,-0.70%,NA,Casual Dining & Varied Menu
+24,Jack in the Box,NA,3504,1.10%,2243,0.30%,NA,Quick Service & Burger
+25,IHOP,NA,3266,2.00%,1710,0.30%,NA,Family Dining & Family Style
+26,Texas Roadhouse,NA,3016,11.00%,553,3.80%,NA,Casual Dining & Steak
+27,Denny's,NA,2691,1.10%,1558,-1.50%,NA,Family Dining & Family Style
+28,Papa John's,NA,2638,-2.70%,3142,-1.80%,NA,Quick Service & Pizza
+29,Outback Steakhouse,NA,2635,0.90%,724,-1.20%,NA,Casual Dining & Steak
+30,Whataburger,NA,2556,5.80%,830,0.60%,NA,Quick Service & Burger
+31,Red Lobster,NA,2490,1.60%,679,0.10%,NA,Casual Dining & Seafood
+32,Cracker Barrel,"Cracker Barrel made the most surprising deal of 2019 when it took a $140 million stake in growth chain Punch Bowl Social. But that investment was tested in March, when the chain said it would not rescue Punch Bowl from foreclosure amid the coronavirus crisis, choosing instead to focus on helping its flagship chain and newly acquired Maple Street Biscuit Co.",2482,1.80%,660,0.80%,NA,Family Dining & Family Style
+33,The Cheesecake Factory,NA,2180,2.50%,206,2.50%,NA,Casual Dining & Varied Menu
+34,Jimmy John's Gourmet Sandwiches,NA,2105,-1.60%,2787,-0.50%,NA,Fast Casual & Sandwich
+35,Hardee's,NA,2020,-4.00%,1820,-1.40%,NA,Quick Service & Burger
+36,Zaxby's,NA,1886,6.00%,910,1.30%,NA,Fast Casual & Chicken
+37,LongHorn Steakhouse,NA,1867,6.30%,530,1.90%,NA,Casual Dining & Steak
+38,Culver's,"One of the country's fastest-growing chains over the past five years continued that trajectory in 2019, increasing sales by 13.9% and unit count by 6.7%. Because more than half of its sales come from takeout, it was working to improve its drive-thru technology and add mobile ordering.",1795,13.90%,732,6.70%,NA,Quick Service & Burger
+39,Golden Corral,NA,1746,0.80%,483,-1.20%,NA,Quick Service & Family Casual
+40,Five Guys Burgers and Fries,NA,1661,7.40%,1368,0.70%,NA,Fast Casual & Burger
+41,Red Robin Gourmet Burgers and Brews,"A tumultuous year for the burger chain included the retirement of CEO Denny Marie Post, who had been with Red Robin since 2011, and continued attempts by activist investors to force a sale of the company. It named Paul Murphy as its new CEO in September.",1548,-0.30%,556,-3.00%,NA,Casual Dining & Varied Menu
+42,Raising Cane's Chicken Fingers,NA,1466,23.80%,457,14.30%,NA,Fast Casual & Chicken
+43,Carl's Jr.,NA,1423,-2.50%,1095,-2.30%,NA,Quick Service & Burger
+44,Wingstop,"2019 marked Wingstop's 16th consecutive year of comps growth. In October, it said it planned to broaden its offerings to include whole wings to take advantage of lower commodity prices on whole chickens.",1363,19.00%,1231,9.50%,NA,Fast Casual & Chicken
+45,Waffle House,Waffle House,1344,3.40%,1959,1.20%,NA,Family Dining & Family Style
+46,Jersey Mike's Subs,NA,1340,16.70%,1667,11.60%,NA,Fast Casual & Sandwich
+47,Bojangles',NA,1331,2.70%,746,-1.30%,NA,Quick Service & Chicken
+48,BJ's Restaurant & Brewhouse,"BJ's Restaurants' bullish approach to off-premise has paid off, helping it to pass TGI Fridays and become the No. 10 casual-dining chain. As of July, delivery sales at the chain were growing at a 20% clip, and the chain reported that takeout and catering sales were increasing as well. BJ's also overhauled its back-of-house operations in 2019 to make things more efficient and easier on employees.",1161,4.00%,208,3.00%,NA,Casual Dining & Varied Menu
+49,TGI Fridays,NA,1085,-8.50%,385,-7.90%,NA,Casual Dining & Varied Menu
+50,In-N-Out Burger,NA,957,4.60%,351,3.50%,NA,Quick Service & Burger
